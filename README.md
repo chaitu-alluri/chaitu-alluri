@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chaitu-alluri](https://github.com/chaitu-alluri)
 
+- 👨‍💻 My Resume [https://github.com/chaitu-alluri](https://github.com/chaitu-alluri/My_resume)
+
 - 💬 Ask me about **Python , Javascript , Html ,Css**
 
 - 📫 How to reach me **chaitanyaalluri2004@gmail.com**
