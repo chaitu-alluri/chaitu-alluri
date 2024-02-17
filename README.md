@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **chaitanyaalluri2004@gmail.com**
 
-- ⚡ Fun fact **I Play Competitive games a lot....**
+- ⚡ Fun fact **I Play Competitive Online games a lot....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
