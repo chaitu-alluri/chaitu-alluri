@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaitu_varma_a" target="blank"><img src="https://img.shields.io/twitter/follow/chaitu_varma_a?logo=twitter&style=for-the-badge" alt="chaitu_varma_a" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **Polygon**
 
 - 🌱 I’m currently learning **PYTHON DSA , REACT , JAVA , SAP**
 
